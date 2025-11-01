@@ -1,10 +1,10 @@
-# Hi there, I'm Mitchell Laypath!
+# Hi there, I'm Mitchell Laypath! 
 
 I'm a full-stack developer passionate about building interactive and engaging digital experiences. I enjoy blending clean code with creative design to bring ideas to life, from web applications to game development.
 
 ---
 
-## 💻 My Tech Stack
+## My Tech Stack 🖥️
 
 Here are some of the technologies I work with:
 
@@ -17,7 +17,7 @@ Here are some of the technologies I work with:
 
 ---
 
-## 🚀 My Projects
+## My Projects 💽
 
 Here are a few projects I've worked on.
 
@@ -66,7 +66,7 @@ A classic game of Battleship built in Java. This console-based game allows the u
 
 ---
 
-## 📫 Get in Touch
+## Get in Touch 📫
 
 * **Email:** Mitche11.L@outlook.com
 * **Phone:** 602-384-4742
