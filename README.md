@@ -21,7 +21,7 @@ Here are some of the technologies I work with:
 
 Here are a few projects I've worked on.
 
-### 1. [Modern Web Capabilities Showcase](./Modern%20Web%20Dev%20Code)
+### 1. [Modern Web Capabilities Showcase](./Projects/Modern%20Web%20Dev%20Code)
 A single-page application built to demonstrate modern web development techniques. This project evolved from a university course (GIT418 at ASU) and serves as a personal showcase.
 
 * **Features:**
@@ -33,7 +33,7 @@ A single-page application built to demonstrate modern web development techniques
 
 ---
 
-### 2. [Unity C# Simulation (Study Abroad Sim)](./Study%20Abroad%20C%23%20Code)
+### 2. [Unity C# Simulation (Study Abroad Sim)](./Projects/Study%20Abroad%20C%23%20Code)
 A simulation built in Unity (C#) that models agent behavior. This project includes a `GameManager` to control simulation parameters and `AgentAI` scripts for individual agent logic.
 
 * **Features:**
@@ -44,7 +44,7 @@ A simulation built in Unity (C#) that models agent behavior. This project includ
 
 ---
 
-### 3. [Animated Mother's Day Web Card](./Mothers%20Day%20Card%20Code)
+### 3. [Animated Mother's Day Web Card](./Projects/Mothers%20Day%20Card%20Code)
 A beautiful and interactive digital card created to celebrate Mother's Day. This project uses pure HTML, CSS, and JavaScript to create a magical and heartwarming experience.
 
 * **Features:**
@@ -55,7 +55,7 @@ A beautiful and interactive digital card created to celebrate Mother's Day. This
 
 ---
 
-### 4. [Java Battleship (Ship Sinking Game)](./Java%20Battleship%20Code)
+### 4. [Java Battleship (Ship Sinking Game)](./Projects/Java%20Battleship%20Code)
 A classic game of Battleship built in Java. This console-based game allows the user to play in a standard mode or a "cheat mode" that reveals the ship locations.
 
 * **Features:**
